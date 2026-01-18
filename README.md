@@ -4,25 +4,6 @@ This repository is a structured journey through the internal workings and modern
 
 The learning path is guided by the expert tutorials from [Tapas Adhikary's YouTube Channel](https://www.youtube.com/c/TapasAdhikary).
 
-## 🧠 Learning Objectives
-
-* 
-**Engine Internals:** Understanding JIT compilation, Tokenization, and Abstract Syntax Trees (AST).
-
-
-* 
-**Execution Context:** Mastering the Call Stack and how the JavaScript engine manages global and functional execution.
-
-
-* 
-**Memory Management:** Differentiating between **Stack** (for primitives) and **Heap** (for objects) and avoiding memory leaks.
-
-
-* 
-**Advanced Patterns:** Closures, Lexical Scoping, and Explicit Binding (`.call`, `.apply`, `.bind`).
-
-
-
 ---
 
 ## 📅 Roadmap & Progress

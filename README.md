@@ -9,6 +9,7 @@ The learning path is guided by the expert tutorials from [Tapas Adhikary's YouTu
 ## 📅 Roadmap & Progress
 
 | Day | Topic | Key Concept | Status |
+|---|---|---|---|
 | **1-5** | **Foundations** | Execution Context, Hoisting, & The Call Stack | ✅ |
 | **6-10** | **Memory** | Stack vs. Heap, Garbage Collection, & Immutability | ✅ |
 | **11-15** | **Scope & Functions** | Lexical Scoping, Closures, & Higher Order Functions | ⏳ |

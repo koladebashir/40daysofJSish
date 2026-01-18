@@ -15,7 +15,7 @@ The learning path is guided by the expert tutorials from [Tapas Adhikary's YouTu
 | **11-15** | **Scope & Functions** | Lexical Scoping, Closures, & Higher Order Functions | ⏳ |
 | **16-25** | **DOM & Events** | Event Delegation, Bubbling, & Capturing | 📅 |
 | **26-35** | **Asynchronous JS** | Event Loop, Promises, and Microtask Queue | 📅 |
-| **36-40** | **Advanced Optimizations** | Jump Tables, Script Loading (async/defer) 
+| **36-40** | **Advanced Optimizations** | Jump Tables, Script Loading (async/defer) | 📅 |
 
 ---
 
